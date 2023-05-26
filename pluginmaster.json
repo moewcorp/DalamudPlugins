@@ -20,6 +20,24 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685087409"
+        "LastUpdate": "1685102515"
+    },
+    {
+        "Author": "Windmourn",
+        "Name": "SkipCutscene",
+        "Punchline": "辍学",
+        "Description": "辍学",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.2.2.2",
+        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1685102515"
     }
 ]
