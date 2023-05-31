@@ -20,7 +20,32 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685102515"
+        "LastUpdate": "1685523237"
+    },
+    {
+        "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
+        "Name": "LazyLoot",
+        "Punchline": "一(自)键(动)Roll点用的",
+        "Description": "带有各种参数的Roll点命令 need | needonly | greed | pass | passall\n聊天和Toast输出以及Roll点延迟。",
+        "InternalName": "LazyLoot",
+        "AssemblyVersion": "5.0.9.7",
+        "RepoUrl": "https://github.com/PunishXIV/LazyLoot",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "plugin",
+            "loot",
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://love.puni.sh/resources/lazyloot.png",
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1685523237"
     },
     {
         "Author": "Windmourn",
@@ -38,6 +63,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685102515"
+        "LastUpdate": "1685523237"
     }
 ]
