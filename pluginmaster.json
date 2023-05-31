@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685528981"
+        "LastUpdate": "1685569530"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -45,7 +45,25 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685528981"
+        "LastUpdate": "1685569530"
+    },
+    {
+        "Author": "gamous",
+        "Name": "NekoMaster",
+        "Punchline": "Let neko manage your plugins!",
+        "Description": "Super plugin manager with friendly UI and commands.",
+        "InternalName": "NekoMaster",
+        "AssemblyVersion": "0.0.8.1",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1685569530"
     },
     {
         "Author": "Windmourn",
@@ -63,6 +81,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685528981"
+        "LastUpdate": "1685569530"
     }
 ]
