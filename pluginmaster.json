@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685805726"
+        "LastUpdate": "1685882702"
     },
     {
         "Author": "UnknownX",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685805726"
+        "LastUpdate": "1685882702"
     },
     {
         "Author": "gamous",
@@ -51,7 +51,7 @@
         "Punchline": "Let neko manage your plugins!",
         "Description": "Super plugin manager with friendly UI and commands.",
         "InternalName": "NekoMaster",
-        "AssemblyVersion": "0.0.8.1",
+        "AssemblyVersion": "0.0.8.2",
         "ApplicableVersion": "any",
         "Tags": [],
         "DalamudApiLevel": 8,
@@ -61,7 +61,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685805726"
+        "LastUpdate": "1685882702"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -86,7 +86,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685805726"
+        "LastUpdate": "1685882702"
     },
     {
         "Author": "Windmourn",
@@ -104,6 +104,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1685805726"
+        "LastUpdate": "1685882702"
     }
 ]
