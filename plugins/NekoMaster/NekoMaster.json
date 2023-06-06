@@ -2,7 +2,7 @@
   "Author": "gamous",
   "Name": "NekoMaster",
   "InternalName": "NekoMaster",
-  "AssemblyVersion": "0.0.8.2",
+  "AssemblyVersion": "0.0.8.3",
   "Description": "Super plugin manager with friendly UI and commands.",
   "ApplicableVersion": "any",
   "Tags": [],
