@@ -1,0 +1,10 @@
+{
+  "Author": "gamous",
+  "Name": "Chameleon",
+  "InternalName": "Chameleon",
+  "Description": "Real fakename in memory",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/moewcorp/Chameleon",
+  "DalamudApiLevel": 8,
+  "LoadPriority": 233
+}
