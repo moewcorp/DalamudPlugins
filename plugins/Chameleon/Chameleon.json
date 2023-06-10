@@ -2,9 +2,15 @@
   "Author": "gamous",
   "Name": "Chameleon",
   "InternalName": "Chameleon",
-  "Description": "Real fakename in memory",
+  "AssemblyVersion": "0.0.8.1",
+  "Description": "[Testing]Real fakename in memory",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/moewcorp/Chameleon",
   "DalamudApiLevel": 8,
-  "LoadPriority": 233
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Real fakename in memory",
+  "AcceptsFeedback": true
 }
