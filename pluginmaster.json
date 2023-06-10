@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686371914"
+        "LastUpdate": "1686372574"
     },
     {
         "Author": "UnknownX",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686371914"
+        "LastUpdate": "1686372574"
     },
     {
         "Author": "gamous",
@@ -61,7 +61,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686371914"
+        "LastUpdate": "1686372574"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -86,7 +86,25 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686371914"
+        "LastUpdate": "1686372574"
+    },
+    {
+        "Author": "gamous",
+        "Name": "Chameleon",
+        "Punchline": "Real fakename in memory",
+        "Description": "[Testing]Real fakename in memory",
+        "InternalName": "Chameleon",
+        "AssemblyVersion": "0.0.8.1",
+        "RepoUrl": "https://github.com/moewcorp/Chameleon",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1686372574"
     },
     {
         "Author": "Windmourn",
@@ -104,6 +122,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686371914"
+        "LastUpdate": "1686372574"
     }
 ]
