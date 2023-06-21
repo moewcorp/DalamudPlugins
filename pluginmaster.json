@@ -1,21 +1,62 @@
 [
     {
         "Author": "gamous",
-        "Name": "Chameleon",
-        "Punchline": "Real fakename in memory",
-        "Description": "[Testing]Real fakename in memory",
-        "InternalName": "Chameleon",
-        "AssemblyVersion": "0.0.8.1",
-        "RepoUrl": "https://github.com/moewcorp/Chameleon",
+        "Name": "NekoMaster",
+        "Punchline": "Let neko manage your plugins!",
+        "Description": "Super plugin manager with friendly UI and commands.",
+        "InternalName": "NekoMaster",
+        "AssemblyVersion": "0.0.8.4",
         "ApplicableVersion": "any",
+        "Tags": [],
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687316155"
+        "LastUpdate": "1687341883"
+    },
+    {
+        "Author": "Windmourn",
+        "Name": "SkipCutscene",
+        "Punchline": "辍学",
+        "Description": "辍学",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.2.2.2",
+        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1687341883"
+    },
+    {
+        "Author": "кайт машина (Puni.sh)",
+        "Name": "Avarice",
+        "Punchline": "擦弹点和身位指示器（适配国服6.3旧版）",
+        "Description": "擦弹点和身位指示器（适配国服6.3旧版）",
+        "Changelog": "- Minor release for project dependency upgrade, no major changes",
+        "InternalName": "Avarice",
+        "AssemblyVersion": "2.0.1.2",
+        "RepoUrl": "https://github.com/PunishXIV/Avarice",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "combat"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "https://love.puni.sh/resources/avarice.png",
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1687341883"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -39,48 +80,25 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687316155"
+        "LastUpdate": "1687341883"
     },
     {
-        "Author": "кайт машина (Puni.sh)",
-        "Name": "Avarice",
-        "Punchline": "擦弹点和身位指示器（适配国服6.3旧版）",
-        "Description": "擦弹点和身位指示器（适配国服6.3旧版）",
-        "Changelog": "- Minor release for project dependency upgrade, no major changes",
-        "InternalName": "Avarice",
-        "AssemblyVersion": "2.0.1.2",
-        "RepoUrl": "https://github.com/PunishXIV/Avarice",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "combat"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://love.puni.sh/resources/avarice.png",
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1687316155"
-    },
-    {
-        "Author": "Windmourn",
-        "Name": "SkipCutscene",
-        "Punchline": "辍学",
-        "Description": "辍学",
-        "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.2.2.2",
-        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+        "Author": "gamous",
+        "Name": "Chameleon",
+        "Punchline": "Real fakename in memory",
+        "Description": "[Testing]Real fakename in memory",
+        "InternalName": "Chameleon",
+        "AssemblyVersion": "0.0.8.1",
+        "RepoUrl": "https://github.com/moewcorp/Chameleon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687316155"
+        "LastUpdate": "1687341883"
     },
     {
         "Author": "UnknownX",
@@ -103,7 +121,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687316155"
+        "LastUpdate": "1687341883"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -128,24 +146,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687316155"
-    },
-    {
-        "Author": "gamous",
-        "Name": "NekoMaster",
-        "Punchline": "Let neko manage your plugins!",
-        "Description": "Super plugin manager with friendly UI and commands.",
-        "InternalName": "NekoMaster",
-        "AssemblyVersion": "0.0.8.4",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1687316155"
+        "LastUpdate": "1687341883"
     }
 ]
