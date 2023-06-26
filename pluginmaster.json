@@ -1,24 +1,5 @@
 [
     {
-        "Author": "ascclemens",
-        "Name": "Better Party Finder",
-        "Punchline": "使用高级队员招募过滤器预设。",
-        "Description": "更好地过滤队员招募\n提供所有普通的过滤功能，此外：\n- 创建过滤器预设方便切换\n- 特定任务和类别的白名单/黑名单\n- 添加想要隐藏招募的关键字\n- 删除高于最高品级的招募\n- 按品级范围筛选\n- 过滤多个职业和插槽（例如机工 + 绝枪可加入）",
-        "Changelog": "- 新增职业限制，用于过滤掉队伍中已存在某些职业的招募\n- 新增招募留言过滤，仅显示包含已添加关键词的招募\n- 新增招募留言屏蔽，添加屏蔽词来屏蔽例如“装甲车”等无用招募 (@Fragile)",
-        "InternalName": "BetterPartyFinder",
-        "AssemblyVersion": "1.2.8.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/BetterPartyFinder/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/BetterPartyFinder/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/BetterPartyFinder/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/BetterPartyFinder/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1687711821"
-    },
-    {
         "Author": "gamous",
         "Name": "Chameleon",
         "Punchline": "Real fakename in memory",
@@ -34,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "Taurenkey (Puni.sh), NiGuangOwO (本地化)",
@@ -58,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/PandorasBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "кайт машина (Puni.sh)",
@@ -81,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Avarice/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "Windmourn",
@@ -99,7 +80,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "UnknownX",
@@ -122,7 +103,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "53m1k0l0n/Gidedin (Puni.sh)/NiGuangOwO (本地化)",
@@ -147,7 +128,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/LazyLoot/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     },
     {
         "Author": "gamous",
@@ -165,6 +146,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/NekoMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687711821"
+        "LastUpdate": "1687747347"
     }
 ]
