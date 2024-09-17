@@ -18,6 +18,30 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1713111045"
+        "LastUpdate": "1726583184"
+    },
+    {
+        "Author": "developer",
+        "Name": "AutoQuest",
+        "Punchline": "Hello world",
+        "Description": "",
+        "InternalName": "AutoQuest",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "quest",
+            "auto",
+            "plugin"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1726583184"
     }
 ]
