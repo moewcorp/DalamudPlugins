@@ -3,9 +3,9 @@
   "Name": "AutoQuest",
   "InternalName": "AutoQuest",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "",
+  "Description": "[测试][未完成][开坑][不确定能不能填完坑] 自动任务",
   "ApplicableVersion": "any",
-  "RepoUrl": "",
+  "RepoUrl": "https://github.com/moewcorp/AutoQuest",
   "Tags": [
     "quest",
     "auto",
