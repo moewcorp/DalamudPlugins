@@ -18,16 +18,16 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1726583184"
+        "LastUpdate": "1726583822"
     },
     {
         "Author": "developer",
         "Name": "AutoQuest",
         "Punchline": "Hello world",
-        "Description": "",
+        "Description": "[测试][未完成][开坑][不确定能不能填完坑] 自动任务",
         "InternalName": "AutoQuest",
         "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "",
+        "RepoUrl": "https://github.com/moewcorp/AutoQuest",
         "ApplicableVersion": "any",
         "Tags": [
             "quest",
@@ -42,6 +42,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1726583184"
+        "LastUpdate": "1726583822"
     }
 ]
