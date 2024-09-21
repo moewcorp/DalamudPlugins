@@ -1,26 +1,5 @@
 [
     {
-        "Author": "gamous",
-        "Name": "Chameleon",
-        "Punchline": "Real fakename in memory",
-        "Description": "Real fakename in memory",
-        "InternalName": "Chameleon",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/moewcorp/Chameleon",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Fake"
-        ],
-        "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1726663468"
-    },
-    {
         "Author": "developer",
         "Name": "AutoQuest",
         "Punchline": "Hello world",
@@ -42,6 +21,27 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1726663468"
+        "LastUpdate": "1726923885"
+    },
+    {
+        "Author": "gamous",
+        "Name": "Chameleon",
+        "Punchline": "Real fakename in memory",
+        "Description": "Real fakename in memory",
+        "InternalName": "Chameleon",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/moewcorp/Chameleon",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Fake"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1726923885"
     }
 ]
