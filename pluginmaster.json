@@ -43,5 +43,26 @@
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1727006295"
+    },
+     {
+        "Author": "yoyokity",
+        "Name": "TreasureBox",
+        "Punchline": "xixi",
+        "Description": "xixi",
+        "InternalName": "TreasureBox",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/yoyokity/TreasureBox",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "plugin"
+        ],
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/yoyokity/TreasureBox/raw/refs/heads/master/Release/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/yoyokity/TreasureBox/raw/refs/heads/master/Release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/yoyokity/TreasureBox/raw/refs/heads/master/Release/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1727006295"
     }
 ]
