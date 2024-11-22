@@ -2,9 +2,10 @@
   "Author": "yoyokity",
   "Name": "TreasureBox",
   "InternalName": "TreasureBox",
-  "AssemblyVersion": "1.3.3.10",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "好用的百宝箱",
   "ApplicableVersion": "any",
+  "RepoUrl": "https,://github.com/yoyokity/TreasureBox",
   "Tags": [
     "plugin"
   ],
