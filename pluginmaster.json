@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/AutoQuest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1732544039"
+        "LastUpdate": "1732760240"
     },
     {
         "Author": "gamous",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/Chameleon/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1732544039"
+        "LastUpdate": "1732760240"
     },
     {
         "Author": "yoyokity",
@@ -50,8 +50,8 @@
         "Punchline": "好用的百宝箱",
         "Description": "好用的百宝箱",
         "InternalName": "TreasureBox",
-        "AssemblyVersion": "1.3.4.0",
-        "RepoUrl": "https,://github.com/yoyokity/TreasureBox",
+        "AssemblyVersion": "1.3.5.0",
+        "RepoUrl": "https://github.com/yoyokity/TreasureBox",
         "ApplicableVersion": "any",
         "Tags": [
             "plugin"
@@ -63,6 +63,6 @@
         "DownloadLinkTesting": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/TreasureBox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/moewcorp/DalamudPlugins/raw/main/plugins/TreasureBox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1732544039"
+        "LastUpdate": "1732760240"
     }
 ]
