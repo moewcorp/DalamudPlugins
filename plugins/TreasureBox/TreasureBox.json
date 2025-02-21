@@ -2,14 +2,14 @@
   "Author": "yoyokity",
   "Name": "TreasureBox",
   "InternalName": "TreasureBox",
-  "AssemblyVersion": "1.3.6.0",
+  "AssemblyVersion": "2.0.0.0",
   "Description": "好用的百宝箱",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/yoyokity/TreasureBox",
   "Tags": [
     "plugin"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
